@@ -1,0 +1,1 @@
+create table uploadfiledata (companyname varchar(100),uploadfilename varchar(100)); 
