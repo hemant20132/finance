@@ -1,1 +1,1 @@
-This repository has code which is developed using php mysql html css javascript jquery for conversion of exel format balance sheet, income statements and cash flow statements to a graphical representation using different financial functions formulae.
+This repository has code which is developed using php mysql html css javascript jquery for conversion of excel format balance sheet, income statements and cash flow statements to a graphical representation output excel file using different financial functions formulae coded in php.
